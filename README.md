@@ -1,2 +1,2 @@
 # Prison_Admissions
-Analysis on Iowa prison admissions.
+Python analysis on Iowa prison admissions.
